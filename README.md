@@ -44,4 +44,3 @@ Key observed issues: :contentReference[oaicite:10]{index=10}
 - Compare against time-series baselines (ARIMA/Prophet) and sequence models
 - More robust handling of extreme events (e.g., custom loss, reweighting)
 
-## Repository structure (suggested)
